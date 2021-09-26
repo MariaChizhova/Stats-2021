@@ -35,5 +35,5 @@ def draw(path, fun):
     plt.savefig(path)
 
 
-draw("uni.png", uniform)
-draw("exp.png", exp)
+draw("hw_02/uni.png", uniform)
+draw("hw_02/exp.png", exp)
